@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-//while문을 많이 써서 구현해보았다 더 직관적이다. 
+//B1920.java를 이중 반복문을 사용하지 않게 구형했지만 이번 코드는 while문을 많이 써서 구현해보았다 이렇게 하니 더 직관적이다. 
 public class Main {
     public static void main(String[] args) throws IOException {
 
